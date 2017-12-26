@@ -5,11 +5,11 @@
 >FIG 2.
 >![](images/fig2.png)
 
-FIG 3.
-![](images/fig3.png)
+>FIG 3.
+>![](images/fig3.png)
 
-FIG 4.
-![](images/fig4.png)
+>FIG 4.
+>![](images/fig4.png)
 
 FIG 5a.
 ![](images/fig5a.png)
