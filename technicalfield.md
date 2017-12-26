@@ -1,0 +1,2 @@
+#### Technical Field
+[001] The present disclosure relates to a transaction method using electronic money and, more particularly, to a system and method for electronic money transaction, capable of preventing an error which may occur during a process of generating a block chain and strengthening security regarding transactional information of electronic money, while allowing electronic money users to directly exchange real money.

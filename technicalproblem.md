@@ -1,0 +1,2 @@
+#### Technical Problem
+[009] Therefore, an aspect of the present disclosure is to increase convenience of electronic money transaction by allowing a user to exchange between electronic money and real money directly in a store. In addition, another aspect of the present disclosure is to enhance security of transaction details between a user and a store by processing an address of the store to be non-public. 
